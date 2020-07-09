@@ -14,3 +14,4 @@ Right now I'm working @ [Nearsoft](https://nearsoftjobs.com/jobs/)
 ### Get in touch with me
 Twitter [@martiuh](https://twitter.com/Martiuh)
 LinkedIn [Martiuh](https://www.linkedin.com/in/martiuh/)
+Telegram [martiuh](https://telegram.me/martiuh)
