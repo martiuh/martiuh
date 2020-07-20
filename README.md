@@ -1,4 +1,4 @@
-# My name is Tona and I welcome you to my `REAMDE.md`
+# My name is Tona and I welcome you to my `README.md`
 
 I'm a developer who works mostly with Javascript (React, Express.js) and I have a lot of fun building stuff and having a lot of ideas, although sometimes I don't manage my time propertly to build and do more, probably because I'm playing videogames or watching a cool anime.
 
